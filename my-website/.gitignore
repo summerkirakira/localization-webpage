@@ -3,6 +3,8 @@
 
 # Production
 /build
+/build.zip
+**/.DS_Store
 
 # Generated files
 .docusaurus
