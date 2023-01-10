@@ -1,3 +1,9 @@
+---
+id: linux-install-localization
+title: 在Linux上安装
+slug: /linux-install-localization
+sidebar_position: 2
+---
 # 星际公民 Linux 汉化教程
 
 # 1.前期准备
