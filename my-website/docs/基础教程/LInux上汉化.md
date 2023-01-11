@@ -1,10 +1,12 @@
 ---
 id: linux-install-localization
-title: 在Linux上安装
+title: 在Linux上安装汉化
 slug: /linux-install-localization
-sidebar_position: 2
+sidebar_position: 3
 ---
 # 星际公民 Linux 汉化教程
+
+作者：SpenserCai
 
 # 1.前期准备
 
@@ -51,5 +53,3 @@ sidebar_position: 2
 ## 2.5.完成汉化
 
 到此位置汉化已经完成了，在 Lutris 中点击启动正常登录就能进行汉化版的游戏了。
-
-作者：SpenserCai

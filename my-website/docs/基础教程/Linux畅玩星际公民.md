@@ -1,8 +1,13 @@
+---
+id: linux-install-starcitizen
+title: Linux畅玩星际公民
+slug: /linux-install-starcitizen
+sidebar_position: 2
+---
 # Linux 畅玩星际公民
 
-# 前言
-
 作者：SpenserCai
+# 前言
 
 众所周知，星际公民介绍的是 Windows 和 Linux 上的游戏，所以我在此总结了一种可以在 Linux 畅玩星际公民的方法。
 
@@ -98,4 +103,4 @@ bash lug-helper.sh
 
 # 安装完成
 
-此时星际公民的安装就已经完成，如需汉化可以参考：[星际公民 Linux 汉化教程](https://keodrzd3m6.feishu.cn/docx/KqbRdiMX5oHgszx5FxMcxx9Xnad)
+此时星际公民的安装就已经完成，如需汉化可以参考：[在Linux上安装汉化](/docs/linux-install-localization)
