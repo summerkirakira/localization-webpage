@@ -4,17 +4,14 @@ sidebar_position: 1
 
 # 星河避难所介绍
 
-:::warning 使用前注意
-使用任何本地化程序在当前，在实质上违反了CIG的用户协议，使用本软件产生的一切后果由你自己承担，本软件作者强烈反对包括但不限于游戏作弊，RMT等违反用户协议的行为，本软件永远不会提供此类功能。
-:::
+星河避难所是一个完全开源的全平台的星际公民本地化及功能增强软件。目前，避难所PC端[starcitizen-lite-pc](https://github.com/summerkirakira/starcitizen-lite-pc)已支持桌面平台（Windows, Mac, Linux）, 避难所安卓端[Starcitizen-lite](https://github.com/summerkirakira/starcitizen-lite-pc)也已经较为完善。
 
-星河避难所是一个基于[StarCitizen-Helper](https://github.com/Shin0by/StarCitizen-Helper)星际公民本地化软件。提供了包括汉化下载/安装/更新/版本切换等功能。
+星河避难所自从三年前第一次提交开始，发展到今天已经基本提供了官网机库信息查看（机库库存汉化&CCU升级链计算）与管理（购买·礼物·融船）的一站化解决方案。
 
-同时还支持热键强制关闭进程，快速切换LIVE/PTU等辅助功能。
 
-和StarCitizen-Helper一样，本软件也以**MIT协议开源**。
+PS. 星河避难所与本地化软件前辈[StarCitizen-Helper](https://github.com/Shin0by/StarCitizen-Helper)已没有任何代码上的关联。
 
-最后，感谢SC汉化组对星际公民本地化持续不断的无偿付出～
+感谢活跃的星际公民社区在本地化方面付出的不懈努力~
 
 **By 妖精酱**
 
