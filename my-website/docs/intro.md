@@ -9,7 +9,9 @@ sidebar_position: 1
 星河避难所自从三年前第一次提交开始，发展到今天已经基本提供了官网机库信息查看（机库库存汉化&CCU升级链计算）与管理（购买·礼物·融船）的一站化解决方案。
 
 
-PS. 星河避难所与本地化软件前辈[StarCitizen-Helper](https://github.com/Shin0by/StarCitizen-Helper)已没有任何代码上的关联。
+PS1. 星河避难所PC端与本地化软件前辈[StarCitizen-Helper](https://github.com/Shin0by/StarCitizen-Helper)已**没有任何代码上的关联**。
+
+PS2. 星河避难所从始至终都是一个**个人项目**，与汉化组无任何联系。
 
 感谢活跃的星际公民社区在本地化方面付出的不懈努力~
 
